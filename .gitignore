@@ -10,7 +10,7 @@ build/
 local.properties
 
 # Log/OS Files
-*.log
+*.log/한국어
 
 # Android Studio generated files and folders
 captures/
@@ -21,18 +21,18 @@ captures/
 output-metadata.json
 
 # IntelliJ
-*.iml
+*.한국어
 .idea/
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
 # Keystore files
-*.jks
+*.한국어
 *.keystore
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
 # Android Profiling
-*.hprof
+*. Indonesia-Korea 
