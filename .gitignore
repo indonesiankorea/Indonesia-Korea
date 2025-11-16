@@ -1,5 +1,9 @@
-# Gradle files
-.gradle/
+#File.Indonesia-Korea.99
+.Kata Kerja
+가• 
+가다 갑니다 가요 Pergi
+갈아입다 갈아입습니다 갈아입어요 Mengganti (Pakaian)
+   
 build/
 
 # Local configuration file (sdk path, etc)
@@ -13,7 +17,7 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.aab
-*.apk
+*.헝국어
 output-metadata.json
 
 # IntelliJ
